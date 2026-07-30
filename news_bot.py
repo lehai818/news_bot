@@ -51,12 +51,14 @@ LINK_BLACKLIST = [
     "coindesk.com",
     "decrypt",
     "CoinMarketCap",
+    "theblock.co",
+    "1inch.com"
     
 ]
 
 # 2. DANH SÁCH TỪ KHÓA / USERNAME BỊ XÓA KHỎI TEXT THUẦN
 TEXT_KEYWORDS_TO_REMOVE = [
-    # "@cointelegraph",
+    "1inch",
     # "@DecryptNews",
     # "@CoinMarketCapAnnouncements"
 ]
