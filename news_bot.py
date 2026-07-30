@@ -52,7 +52,8 @@ LINK_BLACKLIST = [
     "decrypt",
     "CoinMarketCap",
     "theblock.co",
-    "1inch.com"
+    "1inch.com",
+    "coinmarketcap.com",
     
 ]
 
