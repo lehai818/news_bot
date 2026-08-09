@@ -54,6 +54,8 @@ LINK_BLACKLIST = [
     "theblock.co",
     "1inch.com",
     "coinmarketcap.com",
+    "coinmarketcap.com/academy",
+    
     
 ]
 
