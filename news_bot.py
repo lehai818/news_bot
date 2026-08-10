@@ -63,7 +63,9 @@ LINK_BLACKLIST = [
 TEXT_KEYWORDS_TO_REMOVE = [
     "1inch",
     # "@DecryptNews",
-    # "@CoinMarketCapAnnouncements"
+    "@CoinMarketCapAnnouncements",
+    "CoinMarketCap",
+    "CoinMarketCap"
 ]
 
 # Lưu ID bài viết cuối cùng của từng kênh để lọc bài cũ & bài trùng
